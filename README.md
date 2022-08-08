@@ -1,0 +1,2 @@
+# Online-Course-Project-on-Keras-and-Tensorflow
+In this project I have used Deep Learning Modelling in Keras and Tensorflow to predict that The loan borrower will return the loan or not. I have used a USA based company's data which is giving loan to required person.  So create a model which will analyze the history and characteristics  of customers and predict that whether he/she will repay the loan or just Charged off.
